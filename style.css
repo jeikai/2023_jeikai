@@ -1,6 +1,6 @@
 /* basic styles for black background and crosshair cursor */
 body {
-	background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+	background: radial-gradient(ellipse at bottom, #70c0f2 0%, #c370ec 100%);
 	margin: 0;
 }
 
